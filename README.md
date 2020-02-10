@@ -11,3 +11,4 @@ of cycles which is done by autonomous agent. This analysis gives a clear view ab
 distribution in specific area. As a result the bicycle availability is increased. Using spatio-
 temporal analysis of Jobike movement finishes with the result of bicycle distribution in
 various place at the end of the day.
+#agent.png
