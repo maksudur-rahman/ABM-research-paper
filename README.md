@@ -1,4 +1,5 @@
-Abstract
+Abstract : 
+
 Bicycle sharing systems are emanating as secondary injunction form of transportation now
 a days. Jobike is an on demand bike sharing service which gives everyone the opportunity
 to make short trips easily within the coverage area. Spatio-temporal models arise when
